@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Juan Pablo and I'm currently studying programming (I'm on my second year), i will love to have feedback on my projects and I'm open to any opportunity of work. Also if you are a nerd from the cyber-space who enjoy to talk about Alien vs predator I'm here to listen. 
+My name is Juan Pablo and I'm currently studying programming (I'm on my second year), i will love to have feedback on my projects. Also if you are a nerd from the cyber-space who enjoy to talk about Alien vs predator I'm here to listen. 
