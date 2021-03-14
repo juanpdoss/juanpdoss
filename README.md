@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Juan Pablo and I'm currently studying programming (I'm on my second year), i will love to have feedback on my projects. Also if you are a nerd from the cyber-space who enjoy to talk about Alien vs predator I'm here to listen. 
+My name is Juan Pablo and I'm currently studying programming (I'm on my second year), i will love to have feedback on my projects, for now using c# and .net framework to develop Desktop apps. 
+
+
+
+Also if you are a path of exile player hit me up ingame wannadosomedps is my currently character. 
