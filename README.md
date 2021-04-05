@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Juan Pablo and I'm currently studying programming (I'm on my second year), i will love to have feedback on my projects, for now using c# and .net framework to develop Desktop apps. 
+My name is Juan Pablo and I'm currently studying programming, i will love to have feedback on my projects, for now using c# and .net framework to develop Desktop apps. 
 
 
 
