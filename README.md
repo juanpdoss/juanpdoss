@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My name is Juan Pablo and I'm currently studying programming, I will love to have feedback on my projects, for now using c# and .net framework to develop Windows-Desktop apps. 
-Im kinda new in the Web-world but I already worked with php (slim4 framework) and the JavaScript-css-html combo. 
+Im kinda new in the Web-world but I already worked with php (slim4 framework) and the JavaScript-css-html frontend combo. 
 
 
 Also if you are a path of exile player hit me up ingame wannadosomedps is my currently character. 
