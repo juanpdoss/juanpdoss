@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo, a programming student.</h1>
-<h3 align="center">In my repos you will find a lot of content from my own or from my college classes. I will love to have feedback on them and you can also invite me to collaborate in your projects :). I already worked with C, C# to make Desktop apps,but in the present im focusing on the web-develop, so I'm working with php for the back-end and Html-Css-JavaScript in the front-end..</h3>
+<h3 align="center">In my repos you will find a lot of content from my own or from my college classes. I will love to have feedback on them and you can also invite me to collaborate in your projects :). I already worked with C, C# to make Desktop apps, but in the present im focusing on the web-develop, so I'm working with php for the back-end and Html-Css-JavaScript in the front-end..</h3>
 
 - 🔭 I’m currently working on [lunaPlena](https://github.com/juanpdoss/TiendaLunaPlena.git)
 
 - 💬 Ask me about **C#, php and ARPG videogames:)**
 
-- 📫 How to reach me **juanpdoss@gmail.com https://www.linkedin.com/in/juanpdoss/**
+- 📫 How to reach me **juanpdoss@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
