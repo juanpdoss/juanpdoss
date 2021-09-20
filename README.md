@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo, a programming student.</h1>
-<h3>In my repos you will find a lot of content from my own or from my college classes. I will love to have feedback on them and you can also invite me to collaborate in your projects :). I already worked with C, C# to make Desktop apps, but in the present I'm focusing on the web-side, so I'm learning Angular</h3>
+<h3>In my repos you will find a lot of content from my own or from my college classes. I will love to have feedback on them and you can also invite me to collaborate in your projects :). 
+I already worked with C# to make complete Desktop apps using windows forms and .NET, but in the present I'm focusing on the web-side, so I'm learning Angular</h3>
 
 - 🔭 I’m currently working on [lunaPlena](https://github.com/juanpdoss/TiendaLunaPlena.git)
 
