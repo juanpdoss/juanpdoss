@@ -4,7 +4,7 @@ I already worked with C# to make complete Desktop apps using windows forms and .
 
 - 🔭 I’m currently working on [lunaPlena](https://github.com/juanpdoss/TiendaLunaPlena.git)
 
-- 💬 Ask me about ** ARPG videogames:)**
+- 💬 Ask me about  ARPG videogames:)
 
 - 📫 How to reach me **juanpdoss@gmail.com**
 
