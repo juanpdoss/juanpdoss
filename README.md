@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo, a programming student.</h1>
 <h3>In my repos you will find content from my own or from my college classes. I will love to have feedback on them and you can also invite me to collaborate in your projects :). 
 I already worked with C# to make complete Desktop apps using windows forms and .NET, but in the present I'm focusing on the web-side, using Angular and NET.core or PHP. 
-Also I can help you If you need help with an Angular project or a .NET project, just4fun just send me a pm in Linkedin c: .</h3>
+<br>
+ Also I can help you If you need help with an Angular project or a .NET project, just4fun just send me a pm in Linkedin c: .</h3>
 
 - 💬 Ask me about  ARPG videogames:)
 
