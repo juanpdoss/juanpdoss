@@ -3,7 +3,7 @@
 <br>
  I already worked with C# to make complete Desktop apps for the windows environment, using winForms and .NET. 
 <br>
-In the present I'm focusing on the web-side, using Angular and NET.core or PHP in the backend, I'm also learning Blazor to complement my frontend knowledges. 
+In the present I'm focusing on the web-side, using Angular and NET.core or PHP in the backend, I'm also learning Blazor to complement my .NET stack. 
 <br>.</h3>
 
 - 💬 Ask me about  ARPG videogames:)
