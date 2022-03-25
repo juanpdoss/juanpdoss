@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Pablo, a programming student.</h1>
+<h1 align="center">Hi 👋, I'm Juan Pablo, a newbie programmer.</h1>
 <h3>In my repos you will find content from my own or from my college classes. I will love to have feedback on them and you can also invite me to collaborate in your projects :). 
 <br>
  I already worked with C# to make complete Desktop apps for the windows environment, using winForms and .NET. 
