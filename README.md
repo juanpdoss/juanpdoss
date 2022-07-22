@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo, a newbie programmer.</h1>
-<h3>In my repos you will find content from my own or from my college classes. I will love to have feedback on them and you can also invite me to collaborate in your projects :). 
+<h3>In my repos you will find content from my own or from my college classes. 
 <br>
  I already worked with C# to make complete Desktop apps for the windows environment, using winForms and .NET. 
 <br>
-In the present I'm focusing on the web-side, using Angular or React  and NET.core or PHP in the backend.
-
+ In the present I'm focusing on the web-side, using Angular or React and NET.core or PHP in the backend.
 <br>.</h3>
 
-- 💬 Ask me about  ARPG videogames:)
+- 💬 Ask me about  ARPG videogames, cats, and plants.
 
 - 📫 How to reach me **juanpdoss@gmail.com**, <a href="https://www.linkedin.com/in/juanpdoss/"></a>
 
